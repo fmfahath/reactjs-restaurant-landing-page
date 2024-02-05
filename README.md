@@ -4,6 +4,9 @@
    <img src='https://img.shields.io/badge/React_JS-gray?logo=react'/>
    <img src='https://img.shields.io/badge/build-pass-green'/>
   <br><br>
+
+  ![image](https://github.com/fmfahath/reactjs-restaurant-landing-page/assets/95971934/701de7d0-9c7e-4930-a494-2597395d8a5b)
+
 </div>
 
 <hr>
