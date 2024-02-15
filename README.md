@@ -1,5 +1,6 @@
 <div align='center'>
-  <h1>Restaurant Landing Page - React JS</h1>
+  <h1>Responsive Restaurant Landing Page</h1>
+  <h3>React JS | Material UI</h3>
   <img src='https://img.shields.io/badge/fmfahath-white?logo=github&logoColor=black'/>
    <img src='https://img.shields.io/badge/React_JS-gray?logo=react'/>
    <img src='https://img.shields.io/badge/build-pass-green'/>
